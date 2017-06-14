@@ -5,6 +5,7 @@ Rails.application.routes.draw do
 resource :bdaywishes do 
 get "get_token"
 get "get_updates"
+get "get_access_token"
 
 end
 
