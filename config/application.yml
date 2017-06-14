@@ -1,0 +1,3 @@
+app_id: "111731682765277"
+app_secret: "a789c67bc56791e40c318302831c97da"
+call_back_url: "http://localhost:4000"
